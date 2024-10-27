@@ -1,0 +1,6 @@
+count
+led_sequence_active
+led_sequence_start_time
+adc_val
+dutyCycle
+debug

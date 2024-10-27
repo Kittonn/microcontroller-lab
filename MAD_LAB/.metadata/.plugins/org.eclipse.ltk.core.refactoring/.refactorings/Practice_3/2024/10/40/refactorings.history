@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Practice_3/767_SPI_ILI9341_2.ioc&apos; to &apos;Practice_3.ioc&apos;" description="Rename resource &apos;767_SPI_ILI9341_2.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="767_SPI_ILI9341_2.ioc" name="Practice_3.ioc" stamp="1727852088896" updateReferences="true"/>
+</session>

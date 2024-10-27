@@ -1,0 +1,5 @@
+../Core/Src/main.c:72:5:main	2
+../Core/Src/main.c:131:6:SystemClock_Config	4
+../Core/Src/main.c:182:6:handle_led_sequence	6
+../Core/Src/main.c:209:6:MPU_Config	1
+../Core/Src/main.c:240:6:Error_Handler	1

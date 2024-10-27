@@ -1,0 +1,447 @@
+2024-09-26 00:09:56,646 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2024-09-26 00:09:56,713 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2024-09-26 00:09:56,868 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,987 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,987 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,987 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,987 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,987 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:56,988 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,001 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,336 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-26 00:09:57,471 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-26 00:09:57,553 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,553 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,553 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,554 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,555 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,555 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,555 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,555 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,617 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,680 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,680 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,680 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,680 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,681 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,682 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,682 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,682 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:09:57,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,542 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,548 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,548 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,548 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,548 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,548 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,549 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:10:57,648 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:04,817 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,765x359,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-26 00:11:05,837 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,838 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,838 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,838 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,838 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,839 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,840 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:05,944 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,487 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,490 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,491 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,504 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,543 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,545 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,546 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,547 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,561 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:25,666 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,782 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-26 00:11:31,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:31,905 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:11:38,340 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 882881656 Bytes (1073741824)
+2024-09-26 00:11:38,536 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 910452368 Bytes (1073741824)
+2024-09-26 00:11:40,806 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 733105104 Bytes (1073741824)
+2024-09-26 00:11:40,991 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RNG
+2024-09-26 00:11:40,991 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SPI
+2024-09-26 00:11:40,991 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:11:40,991 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:11:40,991 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-09-26 00:11:40,992 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-26 00:11:40,992 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.12.0.202406281431//db/
+2024-09-26 00:11:41,091 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp_save
+2024-09-26 00:11:41,340 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp
+2024-09-26 00:11:41,454 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c_save
+2024-09-26 00:11:41,510 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c
+2024-09-26 00:11:41,512 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h_save
+2024-09-26 00:11:41,571 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h
+2024-09-26 00:11:42,077 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c_save
+2024-09-26 00:11:42,238 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c
+2024-09-26 00:11:42,251 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h_save
+2024-09-26 00:11:42,292 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h
+2024-09-26 00:11:42,296 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp_save
+2024-09-26 00:11:42,333 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp
+2024-09-26 00:11:42,337 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c_save
+2024-09-26 00:11:42,389 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c
+2024-09-26 00:11:42,389 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h_save
+2024-09-26 00:11:42,427 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h
+2024-09-26 00:11:42,429 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c_save
+2024-09-26 00:11:42,479 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c
+2024-09-26 00:11:42,481 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h_save
+2024-09-26 00:11:42,516 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h
+2024-09-26 00:11:42,519 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c_save
+2024-09-26 00:11:42,568 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c
+2024-09-26 00:11:42,569 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h_save
+2024-09-26 00:11:42,606 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h
+2024-09-26 00:11:42,609 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c_save
+2024-09-26 00:11:42,662 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c
+2024-09-26 00:11:42,663 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h_save
+2024-09-26 00:11:42,699 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h
+2024-09-26 00:11:42,702 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c_save
+2024-09-26 00:11:42,753 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c
+2024-09-26 00:11:42,754 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h_save
+2024-09-26 00:11:42,791 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h
+2024-09-26 00:11:42,801 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c_save
+2024-09-26 00:11:42,896 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c
+2024-09-26 00:11:42,898 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h_save
+2024-09-26 00:11:42,950 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h
+2024-09-26 00:11:42,961 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c_save
+2024-09-26 00:11:43,015 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c
+2024-09-26 00:11:43,017 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp_save
+2024-09-26 00:11:43,052 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp
+2024-09-26 00:11:43,059 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h_save
+2024-09-26 00:11:43,103 [INFO] CodeEngine:335 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h
+2024-09-26 00:11:43,125 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h_save
+2024-09-26 00:11:43,174 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h
+2024-09-26 00:11:43,177 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c_save
+2024-09-26 00:11:43,251 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c
+2024-09-26 00:11:43,463 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 66mS.
+2024-09-26 00:11:43,466 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-26 00:11:43,559 [INFO] ConfigFileManager:1531 - The Die is : DIE451
+2024-09-26 00:11:44,611 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1143mS.
+2024-09-26 00:11:44,706 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 6mS.
+2024-09-26 00:11:44,723 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-26 00:15:01,474 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 861834336 Bytes (1073741824)
+2024-09-26 00:15:01,593 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 888570976 Bytes (1073741824)
+2024-09-26 00:15:05,321 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 781616160 Bytes (1073741824)
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RNG
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SPI
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-26 00:15:05,493 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-09-26 00:15:05,494 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-26 00:15:05,494 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2024-09-26 00:15:05,494 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-26 00:15:05,494 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-09-26 00:15:05,494 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-26 00:15:05,494 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.12.0.202406281431//db/
+2024-09-26 00:15:05,595 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp_save
+2024-09-26 00:15:05,665 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp
+2024-09-26 00:15:05,895 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c_save
+2024-09-26 00:15:05,984 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c
+2024-09-26 00:15:05,986 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h_save
+2024-09-26 00:15:06,023 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h
+2024-09-26 00:15:06,457 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c_save
+2024-09-26 00:15:06,527 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c
+2024-09-26 00:15:06,528 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h_save
+2024-09-26 00:15:06,634 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h
+2024-09-26 00:15:06,653 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp_save
+2024-09-26 00:15:06,695 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp
+2024-09-26 00:15:06,700 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c_save
+2024-09-26 00:15:06,756 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c
+2024-09-26 00:15:06,757 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h_save
+2024-09-26 00:15:06,794 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h
+2024-09-26 00:15:06,796 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c_save
+2024-09-26 00:15:06,852 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c
+2024-09-26 00:15:06,853 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h_save
+2024-09-26 00:15:06,892 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h
+2024-09-26 00:15:06,894 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c_save
+2024-09-26 00:15:06,945 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c
+2024-09-26 00:15:06,946 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h_save
+2024-09-26 00:15:06,985 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h
+2024-09-26 00:15:06,987 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c_save
+2024-09-26 00:15:07,057 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c
+2024-09-26 00:15:07,058 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h_save
+2024-09-26 00:15:07,121 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h
+2024-09-26 00:15:07,125 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c_save
+2024-09-26 00:15:07,175 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c
+2024-09-26 00:15:07,177 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h_save
+2024-09-26 00:15:07,213 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h
+2024-09-26 00:15:07,221 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c_save
+2024-09-26 00:15:07,262 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c
+2024-09-26 00:15:07,264 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h_save
+2024-09-26 00:15:07,300 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h
+2024-09-26 00:15:07,310 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c_save
+2024-09-26 00:15:07,364 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c
+2024-09-26 00:15:07,365 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp_save
+2024-09-26 00:15:07,400 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp
+2024-09-26 00:15:07,408 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h_save
+2024-09-26 00:15:07,451 [INFO] CodeEngine:335 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h
+2024-09-26 00:15:07,471 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h_save
+2024-09-26 00:15:07,511 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h
+2024-09-26 00:15:07,512 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c_save
+2024-09-26 00:15:07,592 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c
+2024-09-26 00:15:07,793 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 57mS.
+2024-09-26 00:15:07,797 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-26 00:15:07,850 [INFO] ConfigFileManager:1531 - The Die is : DIE451
+2024-09-26 00:15:08,742 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 942mS.
+2024-09-26 00:15:08,746 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-26 00:15:08,748 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-26 00:29:55,589 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,594 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,594 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,594 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,594 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,661 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,720 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,720 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,721 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,722 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,722 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,722 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,722 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,722 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:29:55,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:30:39,716 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-09-26 00:30:47,234 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,769 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,773 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,773 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,773 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,773 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,774 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,841 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,911 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,912 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,913 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,913 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,913 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,913 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,913 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:46:28,946 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:48:45,075 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 779721984 Bytes (1073741824)
+2024-09-26 00:48:45,186 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 805410048 Bytes (1073741824)
+2024-09-26 00:48:45,384 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 840013056 Bytes (1073741824)
+2024-09-26 00:48:45,513 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RNG
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SPI
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F77
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-09-26 00:48:45,514 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-26 00:48:45,514 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.12.0.202406281431//db/
+2024-09-26 00:48:45,619 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp_save
+2024-09-26 00:48:45,716 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/license.tmp
+2024-09-26 00:48:45,778 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c_save
+2024-09-26 00:48:45,832 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/gpio.c
+2024-09-26 00:48:45,833 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h_save
+2024-09-26 00:48:45,869 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/gpio.h
+2024-09-26 00:48:46,261 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c_save
+2024-09-26 00:48:46,326 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/adc.c
+2024-09-26 00:48:46,328 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h_save
+2024-09-26 00:48:46,363 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/adc.h
+2024-09-26 00:48:46,366 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp_save
+2024-09-26 00:48:46,401 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/cortex.tmp
+2024-09-26 00:48:46,404 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c_save
+2024-09-26 00:48:46,455 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/i2c.c
+2024-09-26 00:48:46,456 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h_save
+2024-09-26 00:48:46,494 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/i2c.h
+2024-09-26 00:48:46,496 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c_save
+2024-09-26 00:48:46,546 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/rng.c
+2024-09-26 00:48:46,548 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h_save
+2024-09-26 00:48:46,594 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/rng.h
+2024-09-26 00:48:46,598 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c_save
+2024-09-26 00:48:46,654 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/spi.c
+2024-09-26 00:48:46,655 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h_save
+2024-09-26 00:48:46,697 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/spi.h
+2024-09-26 00:48:46,700 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c_save
+2024-09-26 00:48:46,768 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/tim.c
+2024-09-26 00:48:46,769 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h_save
+2024-09-26 00:48:46,818 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/tim.h
+2024-09-26 00:48:46,821 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c_save
+2024-09-26 00:48:46,995 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/usart.c
+2024-09-26 00:48:47,010 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h_save
+2024-09-26 00:48:47,052 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/usart.h
+2024-09-26 00:48:47,063 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c_save
+2024-09-26 00:48:47,158 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_it.c
+2024-09-26 00:48:47,159 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h_save
+2024-09-26 00:48:47,206 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_it.h
+2024-09-26 00:48:47,217 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c_save
+2024-09-26 00:48:47,273 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/stm32f7xx_hal_msp.c
+2024-09-26 00:48:47,274 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp_save
+2024-09-26 00:48:47,310 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/MXTmpFiles/system.tmp
+2024-09-26 00:48:47,317 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h_save
+2024-09-26 00:48:47,367 [INFO] CodeEngine:335 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/stm32f7xx_hal_conf.h
+2024-09-26 00:48:47,387 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h_save
+2024-09-26 00:48:47,437 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Inc/main.h
+2024-09-26 00:48:47,438 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c_save
+2024-09-26 00:48:47,513 [INFO] CodeEngine:279 - Generated code: /Users/kitton/STM32CubeIDE/MAD_LAB/767_SPI_ILI9341_2/Core/Src/main.c
+2024-09-26 00:48:47,707 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 72mS.
+2024-09-26 00:48:47,711 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-26 00:48:47,760 [INFO] ConfigFileManager:1531 - The Die is : DIE451
+2024-09-26 00:48:48,458 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 747mS.
+2024-09-26 00:48:48,459 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-26 00:48:48,468 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-26 00:55:53,369 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,373 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,373 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,373 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,373 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,374 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,445 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,517 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,517 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,518 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,519 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,519 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,519 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 00:55:53,556 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-09-26 01:04:28,538 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:04:33,030 [INFO] WebApp:186 - Connection restablished
+2024-09-26 01:05:41,962 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:05:52,190 [INFO] WebApp:186 - Connection restablished
+2024-09-26 01:06:55,997 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:07:43,341 [INFO] WebApp:186 - Connection restablished
+2024-09-26 01:09:49,324 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:10:02,400 [INFO] WebApp:186 - Connection restablished
+2024-09-26 01:11:02,798 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:36:24,461 [INFO] WebApp:186 - Connection restablished
+2024-09-26 01:37:19,723 [INFO] WebApp:189 - Connection lost
+2024-09-26 01:37:27,240 [INFO] WebApp:186 - Connection restablished
